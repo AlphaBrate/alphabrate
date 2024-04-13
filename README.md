@@ -1,9 +1,11 @@
 <h1 align="center">We AlphaBrate</h1>
 <h3 align="center">Trying our best, just for your Pure Web Experience.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alphabrate&label=Profile%20views&color=0e75b6&style=flat" alt="alphabrate" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alphabrate&label=Profile%20views&color=0e75b6&style=flat" alt="alphabrate" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alphabrate&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alphabrate&theme=onedark">
+</p>
 
 - 🔭 We are currently working on **Heligma, a web app generator**
 
@@ -29,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphabrate&show_icons=true&locale=en&layout=compact" alt="alphabrate" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphabrate&show_icons=true&locale=en" alt="alphabrate" /></p>
+
+<p>Using: https://github.com/ryo-ma/github-profile-trophy</p>
