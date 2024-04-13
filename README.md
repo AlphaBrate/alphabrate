@@ -30,6 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphabrate&show_icons=true&locale=en&layout=compact" alt="alphabrate" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphabrate&show_icons=true&locale=en" alt="alphabrate" /></p>
-
 <p>Using: https://github.com/ryo-ma/github-profile-trophy</p>
