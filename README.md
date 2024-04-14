@@ -1,8 +1,6 @@
 <h1 align="center"><b>AlphaBrate</b></h1>
 <h3 align="center">Trying our best, just for your Pure Web Experience.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alphabrate&label=Profile%20views&abbreviated=true&style=for-the-badge" alt="alphabrate" /> </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alphabrate&theme=onedark&rank=SSS,SS,S,A">
 </p>
