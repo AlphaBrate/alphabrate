@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alphabrate&label=Profile%20views&abbreviated=true&style=for-the-badge" alt="alphabrate" /> </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alphabrate&theme=onedark">
+  <img src="https://github-profile-trophy.vercel.app/?username=alphabrate&theme=onedark&rank=SSS,SS,S,A">
 </p>
 
 - 🔭 We are currently working on **Heligma, a web app generator**
