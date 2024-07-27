@@ -25,3 +25,9 @@
 <p><a href="https://ko-fi.com/alphabrate"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alphabrate" /></a></p><br><br>
 
 <p>Using: https://github.com/ryo-ma/github-profile-trophy</p>
+
+Commitment Message
+<pre>
+YYYY-MM-DD Team - Member
+Test -> Action - Target
+</pre>
