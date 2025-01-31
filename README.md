@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alphabrate&label=Profile%20views&abbreviated=true&style=for-the-badge" alt="alphabrate" /> </p>
 
-- 🔭 We are currently working on **Heligma, a web app generator**.
-
 - 🪂 Our founder [ReTrn](https://retrn.medium.com/)
 
 - 📫 Get support on **https://alphabrate.github.io/about/support**
